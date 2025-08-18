@@ -16,7 +16,7 @@ const mainBody = {
     // using font awesome icons
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/mathias-nguyen-van-duong-a189522aa/",
+      url: "https://www.linkedin.com/in/mathiasnvd/",
     },
     {
       image: "fa-github",
@@ -59,7 +59,7 @@ const about = {
   // update the index.html description if u update the about message below
   message:
     "Hi I’m Mathias Nguyen-Van-Duong, an incoming freshman at Princeton University, planning on majoring in Operations Research and Financial Engineering. I'm passionate about engineering, computer science, and language but I also have interests in rowing, bouldering, and tech.",
-  resume: require("../editable-stuff/resume_05_05_25.pdf"),
+  resume: require("../editable-stuff/resume_08_18_25.pdf"),
 };
 
 // PROJECTS SECTION
