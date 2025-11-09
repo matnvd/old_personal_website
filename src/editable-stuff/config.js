@@ -11,7 +11,7 @@ const mainBody = {
   firstName: "Mathias",
   middleName: "",
   lastName: "Nguyen-Van-Duong",
-  message: "Operations Research and Financial Engineering at Princeton",
+  message: "Computer Science at Princeton",
   icons: [
     // using font awesome icons
     {
@@ -58,8 +58,8 @@ const about = {
   imageSize: 375,
   // update the index.html description if u update the about message below
   message:
-    "Hi I’m Mathias Nguyen-Van-Duong, an incoming freshman at Princeton University, planning on majoring in Operations Research and Financial Engineering. I'm passionate about engineering, computer science, and language but I also have interests in rowing, bouldering, and tech.",
-  resume: require("../editable-stuff/resume_09_06_25.pdf"),
+    "Hey! I’m Mathias Nguyen-Van-Duong, a freshman at Princeton University majoring in Computer Science with intended minors in Statistics and Machine Learning along with Optimization and Quantitative Decision Science. I'm interested in algorithms, explainable machine learning, and quantitative finance.",
+  resume: require("../editable-stuff/resume_11_06_25.pdf"),
 };
 
 // PROJECTS SECTION
@@ -68,7 +68,7 @@ const about = {
 // If you want to display specfic projects, add the repository names,
 //      i.e ["repository-1", "repo-2"]
 const repos = {
-  show: true,
+  show: false,
   heading: "Recent Projects",
   gitHubUsername: "matnvd", //i.e."johnDoe12Gh"
   reposLength: 2,
